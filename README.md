@@ -1,4 +1,4 @@
-<h1 align="center">Здравствуйте, я <a href="https://daniilshat.ru/" target="_blank">Светлана</a> 
+<h1 align="center">Здравствуйте, я <a href="https://github.com/Svetlana-2022/Svetlana-2022" target="_blank">Светлана</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Закончила курсы веб-разработчика в Я.Практикуме.</h3>
 <h3 align="center">Мне нравится создавать то, что может быть полезным для людей.</h3>
@@ -25,4 +25,4 @@
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" height="22"/>
 </h4>
-<h4 align="center">Моя почта: <a href="https://daniilshat.ru/" target="_blank">cbeta09@list.ru</a></h4>
+<h4 align="center">Моя почта: <a href="https://mail.ru/" target="_blank">cbeta09@list.ru</a></h4>
