@@ -1,8 +1,8 @@
 <h1 align="center">Здравствуйте, я <a href="https://github.com/Svetlana-2022/Svetlana-2022" target="_blank">Светлана</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Закончила курсы веб-разработчика в Я.Практикуме.</h3>
-<h3 align="center">Мне нравится создавать то, что может быть полезным для людей.</h3>
-<h3 align="center">Люблю разбираться в полезных и не очень программах.</h3>
+<p align="center">Закончила курсы веб-разработчика в Я.Практикуме.</p>
+<p align="center">Мне нравится создавать то, что может быть полезным для людей.</p>
+<p align="center">Люблю разбираться в полезных и не очень программах.</p>
 <h2 align="center">Имею навыки работы с:</h2>
 <h4 align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="22"/>
@@ -26,4 +26,4 @@
   <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="22"/>
 </h4>
-<h4 align="center">Моя почта: <a href="https://mail.ru/" target="_blank">cbeta09@list.ru</a></h4>
+<h4 align="center">Мои контакты: <a href="https://mail.ru/" target="_blank">cbeta09@list.ru</a></h4>
